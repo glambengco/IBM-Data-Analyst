@@ -1,2 +1,2 @@
 # IBM-Data-Analyst
-Projects for IBM Data Analyst Professional Certificate
+This repository contains my projects for IBM Data Analyst Professional Certificate on Courswera.
